@@ -6,7 +6,7 @@
     <title>Multiplicación de Dos Números</title>
 </head>
 <body>
-    <h1>Multiplicación de Dos Números</h1>
+    <h1>Multiplication two numbers</h1>
     
     <form method="post">
         <label for="numero1">Number 1:</label>

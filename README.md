@@ -26,7 +26,7 @@ then place the following command:
 
 and start in http://localhost:8000
 
-## 2nd FORM to run the project (DOCKER HUB)  PENDIENTE 
+## 2nd FORM to run the project (DOCKER HUB)  
 we create a folder in cmd where the project will be saved
 - inside the folder run the following command (creates the docker image)
 * docker pull alexanderc7777/php-calculator
